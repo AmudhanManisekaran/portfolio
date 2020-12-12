@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.04d58d6d.chunk.css",
+    "main.js": "/portfolio/static/js/main.1d171a87.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.1d171a87.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.0c348ade.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.0c348ade.js.map",
+    "static/js/2.7ed5cf84.chunk.js": "/portfolio/static/js/2.7ed5cf84.chunk.js",
+    "static/js/2.7ed5cf84.chunk.js.map": "/portfolio/static/js/2.7ed5cf84.chunk.js.map",
+    "static/css/3.3a26ebde.chunk.css": "/portfolio/static/css/3.3a26ebde.chunk.css",
+    "static/js/3.e91311af.chunk.js": "/portfolio/static/js/3.e91311af.chunk.js",
+    "static/js/3.e91311af.chunk.js.map": "/portfolio/static/js/3.e91311af.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.e9f0e6fcf3fe0514a8608e89d79cae67.js": "/portfolio/precache-manifest.e9f0e6fcf3fe0514a8608e89d79cae67.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/3.3a26ebde.chunk.css.map": "/portfolio/static/css/3.3a26ebde.chunk.css.map",
+    "static/css/main.04d58d6d.chunk.css.map": "/portfolio/static/css/main.04d58d6d.chunk.css.map",
+    "static/media/index.css": "/portfolio/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/aesLogo.png": "/portfolio/static/media/aesLogo.13f065c0.png",
+    "static/media/aicopLogo.png": "/portfolio/static/media/aicopLogo.da4144c4.png",
+    "static/media/asuLogo.png": "/portfolio/static/media/asuLogo.baa352d6.png",
+    "static/media/awsLogo.png": "/portfolio/static/media/awsLogo.778b8185.png",
+    "static/media/codezillaLogo.png": "/portfolio/static/media/codezillaLogo.074139b4.png",
+    "static/media/contactImage.png": "/portfolio/static/media/contactImage.33da6958.png",
+    "static/media/developerImage.png": "/portfolio/static/media/developerImage.1c441f9e.png",
+    "static/media/expenseLogo.png": "/portfolio/static/media/expenseLogo.8007472b.png",
+    "static/media/facebookLogo.png": "/portfolio/static/media/facebookLogo.8ddf76a1.png",
+    "static/media/mathubLogo.png": "/portfolio/static/media/mathubLogo.9c2452ee.png",
+    "static/media/opphackLogo.png": "/portfolio/static/media/opphackLogo.64b22d6b.png",
+    "static/media/opphackLogo2.png": "/portfolio/static/media/opphackLogo2.4eb19228.png",
+    "static/media/proficiencyImage.png": "/portfolio/static/media/proficiencyImage.315ed8e8.png",
+    "static/media/psgLogo.png": "/portfolio/static/media/psgLogo.fce0fa3d.png",
+    "static/media/skillsImage.png": "/portfolio/static/media/skillsImage.209d5dc9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c348ade.js",
+    "static/js/2.7ed5cf84.chunk.js",
+    "static/css/main.04d58d6d.chunk.css",
+    "static/js/main.1d171a87.chunk.js"
+  ]
+}
