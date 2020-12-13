@@ -186,7 +186,7 @@ const achievementSection = {
       subtitle: "A light-weight methodology for extracting insights from text representing personal transactions using Triple Stores and Web Ontology Language(OWL).",
       image: require("./assets/images/expenseLogo.png"),
       footerLink: [
-        { name: "View Project", url: "https://github.com/AmudhanManisekaran/PersonalExpenditureInsights" }
+        { name: "View Project", url: "https://github.com/AmudhanManisekaran/Personal-Expenditure-Insights" }
       ]
     },
     {
@@ -202,7 +202,7 @@ const achievementSection = {
       subtitle: "A serverless and dynamic Account Vending Machine to create AWS accounts and Organizational Units.",
       image: require("./assets/images/awsLogo.png"),
       footerLink: [
-        { name: "View Project", url: "" },
+        { name: "View Project", url: "https://github.com/AmudhanManisekaran/AWS-AccountVendingMachine" },
       ]
     },
     {
@@ -210,7 +210,7 @@ const achievementSection = {
       subtitle: "An artificially intelligent traffic violation detection and management system.",
       image: require("./assets/images/aicopLogo.png"),
       footerLink: [
-        { name: "View Project", url: "" },
+        { name: "View Project", url: "https://github.com/AmudhanManisekaran/AI-Cop" },
       ]
     },
     {
@@ -224,7 +224,7 @@ const achievementSection = {
       subtitle: "An interactive web application to assist middle school students in learning Math fundamentals.",
       image: require("./assets/images/mathubLogo.png"),
       footerLink: [
-        { name: "View Project", url: "https://github.com/AmudhanManisekaran/MatHub---Math-Learning-Platform" }
+        { name: "View Project", url: "https://github.com/AmudhanManisekaran/MatHub-MathLearningPlatform" }
       ]
     }
   ]
