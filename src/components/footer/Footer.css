@@ -9,5 +9,13 @@
 
 .footer-div {
   margin-top: 2rem;
+  /* padding-bottom: 1rem; */
+}
+
+.footer-hits {
+  text-align:center;
+  display:block;
+  margin-top: 1rem;
   padding-bottom: 1rem;
 }
+
