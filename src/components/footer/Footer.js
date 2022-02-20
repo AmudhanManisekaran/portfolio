@@ -14,7 +14,7 @@ export default function Footer() {
         </p>
       </div>
       <div className="footer-hits">
-        <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Famudhanmanisekaran.github.io%2Fportfolio%2F&count_bg=%23437FC7&title_bg=%23000000&icon=fastly.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true"/></a>
+        <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Famudhanmanisekaran.github.io%2Fportfolio%2F&count_bg=%23437FC7&title_bg=%23000000&icon=fastly.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true" alt="icon"/></a>
       </div>
     </Fade>
   );

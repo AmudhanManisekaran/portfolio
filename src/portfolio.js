@@ -4,8 +4,8 @@ const greeting = {
   /* Your Summary And Greeting Section */
   username: "Amudhan Manisekaran",
   title: "Hello, I'm Amudhan",
-  subTitle: emoji("A Software Engineering Graduate student having experience in Python and Full Stack Development with JavaScript / Reactjs / Nodejs and some other cool libraries and frameworks."),
-  sub2: emoji('Graduating in May 2021. 🎓'),
+  subTitle: emoji("An Associate Research Engineer at Indeed.com"),
+  sub2: emoji("A Software Engineering Graduate having experience in Python and Full Stack Development with JavaScript / Reactjs / Nodejs and some other cool libraries and frameworks."),
   resumeLink: "https://drive.google.com/file/d/1ckW_eQ1seubxXgnvpNbUHEYH5d5AwX6Y/view?usp=sharing"
 };
 
@@ -15,7 +15,6 @@ const socialMediaLinks = {
   linkedin: "https://www.linkedin.com/in/amudhan-manisekaran/",
   github: "https://github.com/AmudhanManisekaran",
   gmail: "amudhanmanisekaran@gmail.com",
-  facebook: "https://www.facebook.com/amudhanmanisekaran",
   instagram: "https://www.instagram.com/a.m.d.o.n/"
 };
 
@@ -92,12 +91,11 @@ const educationInfo = {
       schoolName: "Arizona State University",
       logo: require("./assets/images/asuLogo.png"),
       subHeader: "Master of Science in Software Engineering",
-      duration: "August 2019 - Present",
-      desc: "CGPA: 3.78",
+      duration: "August 2019 - May 2021",
+      desc: "CGPA: 3.83",
       descBullets: [
-        "Courses: Advanced Data Structures and Algorithms, Semantic Web Engineering, Data Mining, Software Agility",
-        "Serving as a Technology Assistant Supervisor at University Technology Office, managing a team of Technology Assistants.",
-        "Serving as an Instruction Aide: Math, assisting professors in 100 and 200 level Mathematics courses"
+        "Served as a Technology Assistant Supervisor at University Technology Office, managing a team of Technology Assistants.",
+        "Served as an Instruction Aide: Math, assisting professors in 100 and 200 level Mathematics courses"
       ]
     },
     {
@@ -107,7 +105,6 @@ const educationInfo = {
       duration: "August 2015 - April 2019",
       desc: "CGPA: 8.17",
       descBullets: [
-        "Courses: Object Oriented Programming, Cloud Computing, Artificial Intelligence, Distributed Systems",
         "Served as the Secretary of Indutrial Interaction Forum, organizing various events and workshops",
         "Served as the Graphic Designer of Higher Education Forum, making social media content and promotion material."
       ]
@@ -121,12 +118,12 @@ const techStack = {
   viewSkillBars: true, 
   experience: [
     {
-      Stack: "Python Programming",  
-      progressPercentage: "80%"  
+      Stack: "Full Stack Development",
+      progressPercentage: "85%"
     },
     {
-      Stack: "Full Stack Development",
-      progressPercentage: "75%"
+      Stack: "Python Programming",  
+      progressPercentage: "75%"  
     },
     {
       Stack: "Amazon Web Services",
@@ -139,6 +136,17 @@ const techStack = {
 const workExperiences = {
   viewExperiences: true, 
   experience: [
+    {
+      role: "Associate Research Engineer",
+      company: "Indeed.com",
+      companylogo: require("./assets/images/indeedLogo.png"),
+      date: "Jul 2021 - Present",
+      descBullets: [
+        "Involved in continuous development and maintenance of Indeed’s public-facing resource - Career Guide, a blog website that receives very high search volume every day while also helping jobseekers find the information they are looking for.",
+        "Working with SEO Product Managers to formulate new internal products which help gauge Indeed’s Organic SEO traffic and implement strategies to improve the traffic.",
+        "Implemented an internal link module used to surface 5000 distinct Career Guide articles to Google, resulting in a 0 to 24,000 increase in organic traffic sessions."
+      ]
+    },
     {
       role: "Software Development Engineer Intern",
       company: "PayPal's Opportunity Hack",
