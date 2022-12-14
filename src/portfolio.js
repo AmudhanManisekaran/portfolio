@@ -4,8 +4,8 @@ const greeting = {
   /* Your Summary And Greeting Section */
   username: "Amudhan Manisekaran",
   title: "Hello, I'm Amudhan",
-  subTitle: emoji("An Associate Research Engineer at Indeed.com"),
-  sub2: emoji("A Software Engineering Graduate having experience in Python and Full Stack Development with JavaScript / Reactjs / Nodejs and some other cool libraries and frameworks."),
+  subTitle: emoji("Research Engineer I at Indeed.com"),
+  sub2: emoji("Full-Stack developer with 1.5 years of experience in managing stakeholders and building customer-facing web applications."),
   resumeLink: "https://drive.google.com/file/d/1ckW_eQ1seubxXgnvpNbUHEYH5d5AwX6Y/view?usp=sharing"
 };
 
@@ -13,19 +13,17 @@ const greeting = {
 
 const socialMediaLinks = {
   linkedin: "https://www.linkedin.com/in/amudhan-manisekaran/",
-  github: "https://github.com/AmudhanManisekaran",
   gmail: "amudhanmanisekaran@gmail.com",
-  instagram: "https://www.instagram.com/a.m.d.o.n/"
 };
 
 // Your Skills Section
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "PASSIONATE FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle: "PASSIONATE FULL STACK DEVELOPER WANTING TO EXPLORE DIFFERENT TECH STACKS",
   skills: [
-    emoji("🔹 Develop highly interactive Front end / User Interfaces for your web applications"),
-    emoji("🔹 Analyze user requirements, then research and brainstorm practical solutions to meet those needs, and determine the best course of action"),
+    emoji("🔹 Develop highly interactive Front end / User Interfaces for web applications"),
+    emoji("🔹 Manage stakeholders, analyze requirements, brainstorm practical solutions to meet those needs, and implement the best course of action"),
     emoji("🔹 Integration of third party services such as AWS")
   ],
 
@@ -137,14 +135,16 @@ const workExperiences = {
   viewExperiences: true, 
   experience: [
     {
-      role: "Associate Research Engineer",
+      role: "Research Engineer I",
       company: "Indeed.com",
       companylogo: require("./assets/images/indeedLogo.png"),
       date: "Jul 2021 - Present",
       descBullets: [
-        "Involved in continuous development and maintenance of Indeed’s public-facing resource - Career Guide, a blog website that receives very high search volume every day while also helping jobseekers find the information they are looking for.",
-        "Working with SEO Product Managers to formulate new internal products which help gauge Indeed’s Organic SEO traffic and implement strategies to improve the traffic.",
-        "Implemented an internal link module used to surface 5000 distinct Career Guide articles to Google, resulting in a 0 to 24,000 increase in organic traffic sessions."
+        "Contributing to the continuous development and maintenance of Indeed Career Guide, a blog website hosting 100k+ articles in 23 international sites across nine languages, and receiving 3M visitors/day.",
+        "Collaborating with SEO Product Managers mapping out strategies to scale organic traffic and improve user experience.",
+        "Built multiple link modules, resulting in a 300k increase in organic traffic sessions per quarter.",
+        "Designed and implemented a paginated site directory to surface all the 100k+ articles in the Google index.",
+        "Implemented webpages for 200+ subject matter experts, to increase the Career Guide’s trustworthiness and reliability."
       ]
     },
     {
@@ -243,11 +243,11 @@ const bigProjects = {
   subtitle: "What I do to refresh and rejuvenate?",
   hobbiesList: [
     {
-      hobbyName: "soccer",
+      hobbyName: "football",
       fontAwesomeClassname: "fas fa-futbol"
     },
     {
-      hobbyName: "art & illustration",
+      hobbyName: "art",
       fontAwesomeClassname: "fas fa-paint-brush"
     },
     {
