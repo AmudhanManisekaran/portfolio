@@ -19,11 +19,10 @@ const socialMediaLinks = {
 // Your Skills Section
 
 const skillsSection = {
-  title: "What I do",
-  subTitle: "PASSIONATE FULL STACK DEVELOPER WANTING TO EXPLORE DIFFERENT TECH STACKS",
+  title: "What skills do I have",
   skills: [
-    emoji("🔹 Develop highly interactive Front end / User Interfaces for web applications"),
-    emoji("🔹 Manage stakeholders, analyze requirements, brainstorm practical solutions to meet those needs, and implement the best course of action"),
+    emoji("🔹 Develop highly interactive web applications"),
+    emoji("🔹 Manage stakeholders, brainstorm practical solutions to meet their needs, and implement the best course of action"),
     emoji("🔹 Integration of third party services such as AWS")
   ],
 
@@ -38,6 +37,26 @@ const skillsSection = {
       fontAwesomeClassname: "fab fa-java"
     },
     {
+      skillName: "reactjs",
+      fontAwesomeClassname: "fab fa-react"
+    },
+    {
+      skillName: "JavaScript",
+      fontAwesomeClassname: "fab fa-js"
+    },
+    {
+      skillName: "nodejs",
+      fontAwesomeClassname: "fab fa-node"
+    },
+    {
+      skillName: "aws",
+      fontAwesomeClassname: "fab fa-aws"
+    },
+    {
+      skillName: "graphql",
+      fontAwesomeClassname: "fab fa-codepen"
+    },
+    {
       skillName: "html-5",
       fontAwesomeClassname: "fab fa-html5"
     },
@@ -46,24 +65,8 @@ const skillsSection = {
       fontAwesomeClassname: "fab fa-css3-alt"
     },
     {
-      skillName: "JavaScript",
-      fontAwesomeClassname: "fab fa-js"
-    },
-    {
-      skillName: "reactjs",
-      fontAwesomeClassname: "fab fa-react"
-    },
-    {
-      skillName: "nodejs",
-      fontAwesomeClassname: "fab fa-node"
-    },
-    {
       skillName: "bootstrap",
       fontAwesomeClassname: "fab fa-bootstrap"
-    },
-    {
-      skillName: "aws",
-      fontAwesomeClassname: "fab fa-aws"
     },
     {
       skillName: "git",
@@ -186,7 +189,7 @@ const openSource = {
 const achievementSection = {
 
   title: emoji("Projects"),
-  subtitle: "Out of the several cool projects that I have developed, these are the ones that I am most proud of",
+  subtitle: "Out of the several cool projects that I have worked on, these are the ones that I am most proud of",
 
   achievementsCards: [
     {
@@ -257,10 +260,6 @@ const bigProjects = {
     {
       hobbyName: "gaming",
       fontAwesomeClassname: "fas fa-gamepad"
-    },
-    {
-      hobbyName: "music",
-      fontAwesomeClassname: "fas fa-music"
     }
   ]
 };

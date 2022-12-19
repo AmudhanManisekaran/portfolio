@@ -23,7 +23,6 @@ export default class Main extends Component {
   }
 
   componentDidMount() {
-    const darkPref = window.matchMedia("(prefers-color-scheme: dark)");
     this.setState({ isDark: false });
   }
   changeTheme = () => {
