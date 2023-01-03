@@ -5,7 +5,7 @@ const greeting = {
   username: "Amudhan Manisekaran",
   title: "Hello, I'm Amudhan",
   subTitle: emoji("Research Engineer I at Indeed.com"),
-  sub2: emoji("Full-Stack developer with 1.5 years of experience in managing stakeholders and building customer-facing web applications."),
+  sub2: emoji("Full-Stack developer with 2 years of experience in managing stakeholders and building customer-facing web applications."),
   resumeLink: "https://drive.google.com/file/d/1ckW_eQ1seubxXgnvpNbUHEYH5d5AwX6Y/view?usp=sharing"
 };
 
@@ -93,7 +93,7 @@ const educationInfo = {
       logo: require("./assets/images/asuLogo.png"),
       subHeader: "Master of Science in Software Engineering",
       duration: "August 2019 - May 2021",
-      desc: "CGPA: 3.83",
+      desc: "CGPA: 3.83/4.00",
       descBullets: [
         "Served as a Technology Assistant Supervisor at University Technology Office, managing a team of Technology Assistants.",
         "Served as an Instruction Aide: Math, assisting professors in 100 and 200 level Mathematics courses"
@@ -104,7 +104,7 @@ const educationInfo = {
       logo: require("./assets/images/psgLogo.png"),
       subHeader: "Bachelor of Engineering in Computer Science and Engineering",
       duration: "August 2015 - April 2019",
-      desc: "CGPA: 8.17",
+      desc: "CGPA: 3.72/4.00",
       descBullets: [
         "Served as the Secretary of Indutrial Interaction Forum, organizing various events and workshops",
         "Served as the Graphic Designer of Higher Education Forum, making social media content and promotion material."
