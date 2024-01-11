@@ -5,7 +5,7 @@ const greeting = {
   username: "Amudhan Manisekaran",
   title: "Hello, I'm Amudhan",
   subTitle: emoji("Software Engineer I at Indeed.com"),
-  sub2: emoji("Full-Stack developer with 2 years of experience in managing stakeholders and building customer-facing web applications."),
+  sub2: emoji("Full-Stack developer with 3 years of experience in managing stakeholders and building customer-facing web applications."),
   resumeLink: "https://drive.google.com/file/d/1ckW_eQ1seubxXgnvpNbUHEYH5d5AwX6Y/view?usp=sharing"
 };
 
@@ -143,16 +143,17 @@ const workExperiences = {
       companylogo: require("./assets/images/indeedLogo.png"),
       date: "Jul 2021 - Present",
       descBullets: [
-        "Contributing to the continuous development and maintenance of Indeed Career Guide, a blog website hosting 100k+ articles in 23 international sites across nine languages, and receiving 3M visitors/day.",
+        "Contributing to the continuous development and maintenance of Indeed Career Guide, a blog website hosting 130k+ articles in 23 international sites across nine languages, and receiving 3M visitors/day.",
         "Collaborating with SEO Product Managers mapping out strategies to scale organic traffic and improve user experience.",
+        "Designed and implemented an end-to-end pipeline for content generation using AI, saving $7.5M in production costs.",
         "Built multiple link modules, resulting in a 300k increase in organic traffic sessions per quarter.",
-        "Designed and implemented a paginated site directory to surface all the 100k+ articles in the Google index.",
+        "Developed a multi-locale paginated site directory to surface all the 130k+ articles in the Google search index.",
         "Implemented webpages for 200+ subject matter experts, to increase the Career Guide’s trustworthiness and reliability."
       ]
     },
     {
       role: "Software Development Engineer Intern",
-      company: "PayPal's Opportunity Hack",
+      company: "Opportunity Hack",
       companylogo: require("./assets/images/opphackLogo.png"),
       date: "May 2020 - August 2020",
       descBullets: [
