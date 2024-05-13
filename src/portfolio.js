@@ -4,7 +4,7 @@ const greeting = {
   /* Your Summary And Greeting Section */
   username: "Amudhan Manisekaran",
   title: "Hello, I'm Amudhan",
-  subTitle: emoji("Software Engineer I at Indeed.com"),
+  subTitle: emoji("Software Engineer II at Indeed.com"),
   sub2: emoji("Full-Stack developer with 3 years of experience in managing stakeholders and building customer-facing web applications."),
   resumeLink: "https://drive.google.com/file/d/1ckW_eQ1seubxXgnvpNbUHEYH5d5AwX6Y/view?usp=sharing"
 };
@@ -138,7 +138,7 @@ const workExperiences = {
   viewExperiences: true, 
   experience: [
     {
-      role: "Software Engineer I",
+      role: "Software Engineer II",
       company: "Indeed.com",
       companylogo: require("./assets/images/indeedLogo.png"),
       date: "Jul 2021 - Present",
